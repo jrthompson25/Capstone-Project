@@ -1,2 +1,2 @@
 # Capstone-Project
-My Capstone Project - Data Analytics Cohort 6
+My Capstone Project: Nashville Software School - Data Analytics Cohort 6
