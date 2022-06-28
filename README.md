@@ -43,19 +43,21 @@ strings in the variable to the one new string in the other variable.</p>
 <p>I did something similar to the solution to challenge #1 in that I did a .replace() function to replace the old names with the new names, but  first I had to consolidate them. Ones that sounded similar or were the same thing were easy, but there were some that I didn't know the meaning to since they were specific to restaurant health code. With a little research I was able to find documents that cleared this up or for the most part and the rest were filed under the other category.</p>
 <h2 id="Analysis">Analysis</h2>
 <h3>Top 10 Violations</h3>
-<!-- Top 10 Violations-->
+![Capstone Presentation (5)](https://user-images.githubusercontent.com/20843638/176066327-144efa56-68ec-40f2-bd0f-2a4db1b8da18.jpg)
 <h3>Violations per Restaurant</h3>
-<!-- Violations per Restaurant Image-->
+![Capstone Presentation (6)](https://user-images.githubusercontent.com/20843638/176066340-6eb042e1-5676-4ef2-a453-b76695e61c76.jpg)
 <h3>Postal Codes and Populations Grouped</h3>
-<!-- Postal Codes and Populations Grouped Image-->
+![Capstone Presentation (7)](https://user-images.githubusercontent.com/20843638/176066352-898ca968-3e1b-4146-b9a7-1f205e231228.jpg)
 <h3>Violations Per Restaurant (Median)</h3>
-<!-- Violations Per Restaurant (Median)-->
+![Capstone Presentation (8)](https://user-images.githubusercontent.com/20843638/176066364-a3b07ac3-2afb-4964-bc3f-f2d556a2f161.jpg)
 <h3>Inspection Scores and Population by Postal Code - Anchorage</h3>
-<!-- Inspection Scores and Population by Postal Code - Anchorage Image-->
+![Capstone Presentation (9)](https://user-images.githubusercontent.com/20843638/176066392-a4f34555-d91c-4717-9ea1-2fe6cc1fb7a8.jpg)
 <h3>Inspection Scores and Population by Postal Code - San Francisco</h3>
-<!-- Inspection Scores and Population by Postal Code - San Francisco Image-->
-<h3>Average Scores per Month</h3>
+![Capstone Presentation (10)](https://user-images.githubusercontent.com/20843638/176066419-a6686d89-9d70-491f-ad01-01589f892659.jpg)
+<h3>Average Scores ![Capstone Presentation (11)](https://user-images.githubusercontent.com/20843638/176066434-0fb89161-ee51-40f7-90ff-5967191addf9.jpg)
+per Month</h3>
 <h2 id="Conclusion">Conclusion/Key Takeaways</h2>
+![Capstone Presentation (13)](https://user-images.githubusercontent.com/20843638/176066454-57f41115-9566-40d4-b828-7f7bdcd688d2.jpg)
 
 
 
