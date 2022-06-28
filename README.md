@@ -56,7 +56,7 @@ strings in the variable to the one new string in the other variable.</p>
 ![Capstone Presentation (10)](https://user-images.githubusercontent.com/20843638/176066419-a6686d89-9d70-491f-ad01-01589f892659.jpg)
 <h3>Average Scores per Month</h3> 
 ![Capstone Presentation (11)](https://user-images.githubusercontent.com/20843638/176066434-0fb89161-ee51-40f7-90ff-5967191addf9.jpg)
-<h2 id="Conclusion">Conclusion/Key Takeaways</h2>
+<h3 id="Conclusion">Conclusion/Key Takeaways</h3>
 ![Capstone Presentation (13)](https://user-images.githubusercontent.com/20843638/176066454-57f41115-9566-40d4-b828-7f7bdcd688d2.jpg)
 
 
